@@ -1,0 +1,37 @@
+_repo: Iola-Leroy--Or-Shadows-Uplifted_12352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harper, Frances Ellen Watkins
+    aliases:
+    - Harper, F. E. W. (Frances Ellen Watkins)
+    - Watkins, Frances Ellen
+    birthdate: 1825
+    deathdate: 1911
+    gutenberg_agent_id: '345'
+    url: http://www.gutenberg.org/2009/agents/345
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Harper
+description: "Iola Leroy or, Shadows Uplifted, an 1892 novel by Frances Harper, is\
+  \ one of the first novels published by an African-American woman. While following\
+  \ what has been termed the \"sentimental\" conventions of late nineteenth-century\
+  \ writing about women, it also deals with serious social issues of education for\
+  \ women, passing, miscegenation, abolition, reconstruction, temperance, and social\
+  \ responsibility.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12352'
+  wikidata: Q6062406
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African American women -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- GITenberg
+title: Iola Leroy; Or, Shadows Uplifted
+url: http://www.gutenberg.org/ebooks/12352
+wikipedia:
+- https://en.wikipedia.org/wiki/Iola_Leroy
